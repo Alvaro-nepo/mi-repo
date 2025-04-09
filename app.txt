@@ -1,2 +1,3 @@
 Versión 1.0 - Funcionalidad básica
 Versión 1.1 - Se añade validación de datos
+Versión 1.2 - Corrección de errores y mejoras
